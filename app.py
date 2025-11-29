@@ -1,12 +1,4 @@
-# app.py
-"""
-Hypertension Detection — guided linear flow edition
-- Explicit Continue / Back navigation on each page
-- Progress stepper at top
-- Last-login persisted to last_login.json
-- Defensive session_state initialization
-- Demo-only: not medical advice
-"""
+
 
 import json
 import os
